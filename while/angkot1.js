@@ -1,5 +1,7 @@
-var nilaiawal = 1;
-while (nilaiawal <= 10) {
-    console.log('Angkot No. ' + nilaiawal + ' beroperasi dengan baik')
-    nilaiawal++
+var jumlahangkot = 10
+var noangkot = 1
+
+while (noangkot <= jumlahangkot) {
+    console.log('Angkot No. ' + noangkot + ' beroperasi dengan baik')
+    noangkot++
 }
